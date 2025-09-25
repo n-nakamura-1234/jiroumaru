@@ -1203,3 +1203,7 @@ br.sp {
 .night-menu__inner .drink-list + p {
 	margin-top: 2rem;
 }
+
+.font-red{
+    color: red;
+}
