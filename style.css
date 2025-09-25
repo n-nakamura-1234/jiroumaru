@@ -1204,6 +1204,18 @@ br.sp {
 	margin-top: 2rem;
 }
 
+/* 250925 */
 .font-red{
     color: red;
+}
+
+.center-img{
+    display: block;
+    margin: 0 auto;
+}
+
+.center-text{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
 }

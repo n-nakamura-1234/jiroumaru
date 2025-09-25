@@ -84,6 +84,29 @@ get_header(); ?>
         <h3 class="line-title font-min">和菜膳<span class="price">2,350円</span></h3>
         <p class="menu-text">刺身・小鉢・煮物・茶碗蒸し・揚げ物<br>ご飯・香物・赤だし</p>
     </div>
+
+    <div class="f-item f-box2" style="width: 100%;">
+        <div class="f-item">
+            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
+            <p class="center-text">＊写真は上すき焼膳</p>
+        </div>
+        <div class="f-item">
+            <!-- <div class="midashi font-min">○即予約</div> -->
+            <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span>
+                <br><small>ご飯・香物</small>
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span>
+            <br><small>ご飯・香物</small>    
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span>
+            <br><small>ご飯・香物</small>
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上しゃぶしゃぶ御膳<span class="price">4,550円</span>
+            <br><small>ご飯・香物</small>
+            </h3>
+        </div>
+    </div>
 </div>
 
 <h3 class="title">お気軽にお問い合わせください</h3>
@@ -162,7 +185,31 @@ get_header(); ?>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
         <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br>＊内容はかわる場合がございます</p>
     </div>
+
+    <div class="f-item f-box2" style="width: 100%;">
+        <div class="f-item">
+            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
+        <p class="center-text">＊写真は上すき焼膳</p>
+        </div>
+        <div class="f-item">
+            <!-- <div class="midashi font-min">○即予約</div> -->
+            <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span>
+                <br><small>ご飯・香物</small>
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span>
+            <br><small>ご飯・香物</small>    
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span>
+            <br><small>ご飯・香物</small>
+            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上しゃぶしゃぶ御膳<span class="price">4,550円</span>
+            <br><small>ご飯・香物</small>
+            </h3>
+        </div>
+    </div>
 </div>
+
 
 <h3 class="title" style="margin-bottom: 3rem;">そば・丼ぶり</h3>
 <div class="f-box2 menu-box">
