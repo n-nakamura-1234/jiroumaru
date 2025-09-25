@@ -1219,3 +1219,12 @@ br.sp {
     margin-top: 1rem;
     margin-bottom: 0;
 }
+
+.text-info{
+	text-align: center;
+    font-family: 'Noto Serif JP', 'ヒラギノ明朝 Pro', 'Hiragino Mincho Pro', '游明朝', 'Yu Mincho', '游明朝体', 'YuMincho', 'ＭＳ Ｐ明朝', 'MS PMincho', serif;
+	background-color:black;
+	color:white;
+	margin:0 0 3rem;
+}
+

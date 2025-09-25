@@ -16,8 +16,10 @@ get_header(); ?>
 </div>
 
 <div class="accordion__content">
-<!-- <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p1_compressed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p1_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-769" /></a>
-<a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p2_compressed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p2_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a> -->
+<div class="text-info">
+    仕入れ状況により内容がかわることがあります<br>
+    写真はイメージです
+</div>    
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
 <div class="f-item" style="margin-bottom: 1rem;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
@@ -121,9 +123,10 @@ get_header(); ?>
 </div>
 </div>
 <div class="accordion__content">
-
-<!-- <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p1_compressed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p1_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-769" /></a>
-<a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p2_compressed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p2_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a> -->
+    <div class="text-info">
+    仕入れ状況により内容がかわることがあります<br>
+    写真はイメージです
+</div>    
 
 <div class="course-kasikiri-area" style="margin-top: 2.5em;">
     <div class="f-item f-box2" style="width: 100%;">
