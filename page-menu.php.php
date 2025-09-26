@@ -89,7 +89,7 @@ get_header(); ?>
 
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
-            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
+            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"></a>
         </div>
         <div class="f-item">
             <!-- <div class="midashi font-min">○即予約</div> -->
@@ -183,7 +183,7 @@ get_header(); ?>
 
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
-            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
+            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"></a>
         </div>
         <div class="f-item">
             <!-- <div class="midashi font-min">○即予約</div> -->
