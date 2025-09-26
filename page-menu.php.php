@@ -15,11 +15,7 @@ get_header(); ?>
 </div>
 </div>
 
-<div class="accordion__content">
-<div class="text-info">
-    仕入れ状況により内容がかわることがあります<br>
-    写真はイメージです
-</div>    
+<div class="accordion__content">   
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
 <div class="f-item" style="margin-bottom: 1rem;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
@@ -32,59 +28,59 @@ get_header(); ?>
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
         <div class="midashi font-min">平日のみ食前酒付き</div>
         <h3 class="line-title font-min">奥様女子会御膳<span class="price">3,450円</span></h3>
-        <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span></p>
+        <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span><br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
         <!-- <div class="midashi font-min"> </div> -->
         <h3 class="line-title font-min">ステーキ御膳<span class="price" style="text-align: right;">3,450円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
         <h3 class="line-title font-min">ステーキ丼<span class="price">3,150円</span></h3>
-        <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物</p>
+        <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
         <h3 class="line-title font-min">黒豚とんかつ膳<span class="price">2,980円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
         <h3 class="line-title font-min">刺身御膳<span class="price">2,980円</span></h3>
-        <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物</p>
+        <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
         <h3 class="line-title font-min">天婦羅御膳<span class="price">2,650円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
         <h3 class="line-title font-min">こい地鶏の唐揚げ御膳<span class="price">2,650円</span></h3>
-        <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
         <div class="midashi font-min">2日前までの要予約</div>
         <h3 class="line-title font-min">うなぎひつまぶし御膳<span class="price">4,130円</span></h3>
-        <p class="menu-text">小鉢・赤だし・香物・フルーツ</p>
+        <p class="menu-text">小鉢・赤だし・香物・フルーツ<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
-        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br>＊内容はかわる場合がございます</p>
+        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>＊内容はかわる場合がございます。<br>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg" /></a>
         <div class="midashi font-min">平日昼限定20食</div>
         <h3 class="line-title font-min">和菜膳<span class="price">2,350円</span></h3>
-        <p class="menu-text">刺身・小鉢・煮物・茶碗蒸し・揚げ物<br>ご飯・香物・赤だし</p>
+        <p class="menu-text">刺身・小鉢・煮物・茶碗蒸し・揚げ物<br>ご飯・香物・赤だし<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
 
     <div class="f-item f-box2" style="width: 100%;">
@@ -98,7 +94,7 @@ get_header(); ?>
             <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
             <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
             <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
-            <p class="menu-text mt15">ご飯・香物<br>＊写真は上すき焼膳</p>
+            <p class="menu-text mt15">ご飯・香物<br><small>＊写真は上すき焼膳<br>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
         </div>
     </div>
 </div>
@@ -114,13 +110,9 @@ get_header(); ?>
 <div class="subtitle">Dinner time</div>
 </div>
 </div>
-<div class="accordion__content">
-    <div class="text-info">
-    仕入れ状況により内容がかわることがあります<br>
-    写真はイメージです
-</div>    
 
-<div class="course-kasikiri-area" style="margin-top: 2.5em;">
+<div class="accordion__content">
+<div class="course-kasikiri-area">
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item" style="margin-bottom: 1rem;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
         <div class="f-item" style="margin-bottom: 0;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg" /></a> </div>
@@ -132,53 +124,53 @@ get_header(); ?>
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
         <div class="midashi font-min">平日のみ食前酒付き</div>
         <h3 class="line-title font-min">奥様女子会御膳<span class="price">3,450円</span></h3>
-        <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span></p>
+        <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span><br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
         <!-- <div class="midashi font-min"> </div> -->
         <h3 class="line-title font-min">ステーキ御膳<span class="price" style="text-align: right;">3,450円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
         <h3 class="line-title font-min">ステーキ丼<span class="price">3,150円</span></h3>
-        <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物</p>
+        <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
         <h3 class="line-title font-min">黒豚とんかつ膳<span class="price">2,980円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
         <h3 class="line-title font-min">刺身御膳<span class="price">2,980円</span></h3>
-        <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物</p>
+        <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
         <h3 class="line-title font-min">天婦羅御膳<span class="price">2,650円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
         <h3 class="line-title font-min">こい地鶏の唐揚げ御膳<span class="price">2,650円</span></h3>
-        <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;" /></a>
+        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
-        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
+        <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
         <div class="midashi font-min">2日前までの要予約</div>
         <h3 class="line-title font-min">うなぎひつまぶし御膳<span class="price">4,130円</span></h3>
-        <p class="menu-text">小鉢・赤だし・香物・フルーツ</p>
+        <p class="menu-text">小鉢・赤だし・香物・フルーツ<br><small>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
-        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br>＊内容はかわる場合がございます</p>
+        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>＊内容はかわる場合がございます。<br>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
     </div>
 
     <div class="f-item f-box2" style="width: 100%;">
@@ -192,7 +184,7 @@ get_header(); ?>
             <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
             <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
             <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
-            <p class="menu-text mt15">ご飯・香物<br>＊写真は上すき焼膳</p>
+            <p class="menu-text mt15">ご飯・香物<br><small>＊写真は上すき焼膳<br>仕入れ状況により内容がかわることがあります。<br>写真はイメージです。</small></p>
         </div>
     </div>
 </div>
