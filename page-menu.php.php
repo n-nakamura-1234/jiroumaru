@@ -65,7 +65,7 @@ get_header(); ?>
         <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物</p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" /></a>
+        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
     </div>
@@ -90,23 +90,15 @@ get_header(); ?>
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
             <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
-            <p class="center-text">＊写真は上すき焼膳</p>
         </div>
         <div class="f-item">
             <!-- <div class="midashi font-min">○即予約</div> -->
             <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
-            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span>
-                <br><small>ご飯・香物</small>
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span>
-            <br><small>ご飯・香物</small>    
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span>
-            <br><small>ご飯・香物</small>
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">上しゃぶしゃぶ御膳<span class="price">4,550円</span>
-            <br><small>ご飯・香物</small>
-            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span></h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
+            <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
+            <p class="menu-text mt15">ご飯・香物<br>＊写真は上すき焼膳</p>
         </div>
     </div>
 </div>
@@ -173,7 +165,7 @@ get_header(); ?>
         <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物</p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" /></a>
+        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;" /></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物</p>
     </div>
@@ -192,23 +184,15 @@ get_header(); ?>
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
             <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sukiyaki.jpg" class="center-img"></a>
-        <p class="center-text">＊写真は上すき焼膳</p>
         </div>
         <div class="f-item">
             <!-- <div class="midashi font-min">○即予約</div> -->
             <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
-            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span>
-                <br><small>ご飯・香物</small>
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span>
-            <br><small>ご飯・香物</small>    
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span>
-            <br><small>ご飯・香物</small>
-            </h3>
-            <h3 class="line-title font-min mb0" style="border: none;">上しゃぶしゃぶ御膳<span class="price">4,550円</span>
-            <br><small>ご飯・香物</small>
-            </h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span></h3>
+            <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
+            <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
+            <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
+            <p class="menu-text mt15">ご飯・香物<br>＊写真は上すき焼膳</p>
         </div>
     </div>
 </div>
