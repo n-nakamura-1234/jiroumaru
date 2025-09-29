@@ -74,7 +74,7 @@ get_header(); ?>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
-        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>＊内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
+        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>※内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg" /></a>
@@ -94,7 +94,7 @@ get_header(); ?>
             <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
             <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
             <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
-            <p class="menu-text mt15">ご飯・香物<br><small>＊写真は上すき焼膳<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
+            <p class="menu-text mt15">ご飯・香物<br><small>※写真は上すき焼膳<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
         </div>
     </div>
 </div>
@@ -170,7 +170,7 @@ get_header(); ?>
     <div class="f-item">
         <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
-        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>＊内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
+        <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>※内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
 
     <div class="f-item f-box2" style="width: 100%;">
@@ -184,7 +184,7 @@ get_header(); ?>
             <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
             <h3 class="line-title font-min mb0" style="border: none;">特しゃぶしゃぶ御膳<span class="price">5,650円</span></h3>
             <h3 class="line-title font-min mb0" >上しゃぶしゃぶ御膳<span class="price">4,550円</span></h3>
-            <p class="menu-text mt15">ご飯・香物<br><small>＊写真は上すき焼膳<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
+            <p class="menu-text mt15">ご飯・香物<br><small>※写真は上すき焼膳<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
         </div>
     </div>
 </div>
