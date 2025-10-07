@@ -114,6 +114,81 @@ function wpcf7_validate_email_filter_confrim($result, $tag)
 	return $result;
 }
 
+// カスタム投稿タイプ "news" に画像アップロード用メタボックスを追加
+function add_news_image_meta_box() {
+    add_meta_box(
+        'news_image_meta',            // ID
+        'ニュース画像',                // タイトル
+        'render_news_image_meta_box', // コールバック関数
+        'news',                       // 投稿タイプ
+        'side',                       // 表示位置
+        'default'                     // 優先度
+    );
+}
+add_action('add_meta_boxes', 'add_news_image_meta_box');
+
+// メタボックスの表示内容
+function render_news_image_meta_box($post) {
+    wp_nonce_field(basename(__FILE__), 'news_image_nonce');
+    $news_image_id = get_post_meta($post->ID, '_news_image_id', true);
+    $image = $news_image_id ? wp_get_attachment_image($news_image_id, 'medium') : '';
+    ?>
+    <div>
+        <div id="news-image-preview"><?php echo $image; ?></div>
+        <input type="hidden" name="news_image_id" id="news-image-id" value="<?php echo esc_attr($news_image_id); ?>">
+        <button type="button" class="button" id="news-image-upload">画像を選択</button>
+        <button type="button" class="button" id="news-image-remove">削除</button>
+    </div>
+    <script>
+        jQuery(document).ready(function($){
+            var frame;
+            $('#news-image-upload').on('click', function(e){
+                e.preventDefault();
+                if(frame){ frame.open(); return; }
+                frame = wp.media({
+                    title: 'ニュース画像を選択',
+                    button: { text: 'この画像を使用する' },
+                    multiple: false
+                });
+                frame.on('select', function(){
+                    var attachment = frame.state().get('selection').first().toJSON();
+                    $('#news-image-id').val(attachment.id);
+                    $('#news-image-preview').html('<img src="'+attachment.sizes.medium.url+'" style="max-width:100%;">');
+                });
+                frame.open();
+            });
+            $('#news-image-remove').on('click', function(){
+                $('#news-image-id').val('');
+                $('#news-image-preview').html('');
+            });
+        });
+    </script>
+    <?php
+}
+
+// 保存処理
+function save_news_image_meta($post_id) {
+    if(!isset($_POST['news_image_nonce']) || !wp_verify_nonce($_POST['news_image_nonce'], basename(__FILE__))){
+        return $post_id;
+    }
+    if(defined('DOING_AUTOSAVE') && DOING_AUTOSAVE){ return $post_id; }
+    if(isset($_POST['news_image_id'])){
+        update_post_meta($post_id, '_news_image_id', intval($_POST['news_image_id']));
+    }
+}
+add_action('save_post', 'save_news_image_meta');
+
+// 投稿での出力例
+// 投稿テンプレート (single-news.phpなど) に下記を記述すると表示できます
+/*
+<?php
+$news_image_id = get_post_meta(get_the_ID(), '_news_image_id', true);
+if($news_image_id){
+    echo wp_get_attachment_image($news_image_id, 'large');
+}
+?>
+*/
+
 
 /* CSS Time Stamp
 ---------------------------------------------------------- */
