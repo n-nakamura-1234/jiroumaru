@@ -17,10 +17,10 @@
 		<h2 class="title">新着情報</h2>
 		<div class="subtitle">News</div>
 
-        <div class="innerS mt40">
-			<?php echo do_shortcode('[news_images]'); ?>
-		</div>
         
+			<?php echo do_shortcode('[news_images]'); ?>
+		
+
 		<!-- [myphp file='news-list'] -->
         <?php echo do_shortcode('[myphp file="news-list"]'); ?>
 		<div class="btn-area">
