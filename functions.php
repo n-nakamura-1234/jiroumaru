@@ -115,11 +115,12 @@ function wpcf7_validate_email_filter_confrim($result, $tag)
 }
 
 
+// メタボックスの表示内容
 // カスタム投稿タイプ "news" に画像アップロード用メタボックスを追加
 function add_news_image_meta_box() {
     add_meta_box(
         'news_image_meta',            // ID
-        'ニュース画像',                // タイトル
+        'ニュース画像（複数可）',     // タイトル
         'render_news_image_meta_box', // コールバック関数
         'news',                       // 投稿タイプ
         'side',                       // 表示位置
@@ -131,38 +132,55 @@ add_action('add_meta_boxes', 'add_news_image_meta_box');
 // メタボックスの表示内容
 function render_news_image_meta_box($post) {
     wp_nonce_field(basename(__FILE__), 'news_image_nonce');
-    $news_image_id = get_post_meta($post->ID, '_news_image_id', true);
-    $image = $news_image_id ? wp_get_attachment_image($news_image_id, 'medium') : '';
+    $news_image_ids = get_post_meta($post->ID, '_news_image_ids', true);
+    $news_image_ids = is_array($news_image_ids) ? $news_image_ids : [];
+
     ?>
     <div>
-        <div id="news-image-preview"><?php echo $image; ?></div>
-        <input type="hidden" name="news_image_id" id="news-image-id" value="<?php echo esc_attr($news_image_id); ?>">
+        <div id="news-image-preview">
+            <?php
+            if (!empty($news_image_ids)) {
+                foreach ($news_image_ids as $id) {
+                    echo wp_get_attachment_image($id, 'thumbnail', false, ['style' => 'margin:5px;']);
+                }
+            }
+            ?>
+        </div>
+        <input type="hidden" name="news_image_ids" id="news-image-ids" value="<?php echo esc_attr(implode(',', $news_image_ids)); ?>">
         <button type="button" class="button" id="news-image-upload">画像を選択</button>
-        <button type="button" class="button" id="news-image-remove">削除</button>
+        <button type="button" class="button" id="news-image-remove">すべて削除</button>
     </div>
+
     <script>
-        jQuery(document).ready(function($){
-            var frame;
-            $('#news-image-upload').on('click', function(e){
-                e.preventDefault();
-                if(frame){ frame.open(); return; }
-                frame = wp.media({
-                    title: 'ニュース画像を選択',
-                    button: { text: 'この画像を使用する' },
-                    multiple: false
-                });
-                frame.on('select', function(){
-                    var attachment = frame.state().get('selection').first().toJSON();
-                    $('#news-image-id').val(attachment.id);
-                    $('#news-image-preview').html('<img src="'+attachment.sizes.medium.url+'" style="max-width:100%;">');
-                });
-                frame.open();
+    jQuery(document).ready(function($){
+        var frame;
+        $('#news-image-upload').on('click', function(e){
+            e.preventDefault();
+            if(frame){ frame.open(); return; }
+            frame = wp.media({
+                title: 'ニュース画像を選択（複数可）',
+                button: { text: 'この画像を使用する' },
+                multiple: true
             });
-            $('#news-image-remove').on('click', function(){
-                $('#news-image-id').val('');
-                $('#news-image-preview').html('');
+            frame.on('select', function(){
+                var attachments = frame.state().get('selection').toJSON();
+                var ids = [];
+                var html = '';
+                attachments.forEach(function(att){
+                    ids.push(att.id);
+                    html += '<img src="'+att.sizes.thumbnail.url+'" style="margin:5px;">';
+                });
+                $('#news-image-ids').val(ids.join(','));
+                $('#news-image-preview').html(html);
             });
+            frame.open();
         });
+
+        $('#news-image-remove').on('click', function(){
+            $('#news-image-ids').val('');
+            $('#news-image-preview').html('');
+        });
+    });
     </script>
     <?php
 }
@@ -173,36 +191,48 @@ function save_news_image_meta($post_id) {
         return $post_id;
     }
     if(defined('DOING_AUTOSAVE') && DOING_AUTOSAVE){ return $post_id; }
-    if(isset($_POST['news_image_id'])){
-        update_post_meta($post_id, '_news_image_id', intval($_POST['news_image_id']));
+    if(isset($_POST['news_image_ids'])){
+        $ids = array_filter(array_map('intval', explode(',', $_POST['news_image_ids'])));
+        update_post_meta($post_id, '_news_image_ids', $ids);
     }
 }
 add_action('save_post', 'save_news_image_meta');
 
-// 最新のnews投稿の画像を表示するショートコード
+
+// 最新の news 投稿の複数画像を表示するショートコード
 function show_latest_news_images() {
+    // 最新の news 投稿を取得（件数は必要に応じて変更）
     $latest_news = get_posts(array(
         'post_type'      => 'news',
-        'posts_per_page' => 2, // 表示件数を変更可能
+        'posts_per_page' => 4,
         'post_status'    => 'publish'
     ));
 
     if (!$latest_news) return '';
 
     $output = '<div class="news-image-list">';
+
     foreach ($latest_news as $post) {
-        $news_image_id = get_post_meta($post->ID, '_news_image_id', true);
-        if ($news_image_id) {
+        // 各投稿の複数画像IDを取得
+        $news_image_ids = get_post_meta($post->ID, '_news_image_ids', true);
+        if (!empty($news_image_ids)) {
             $permalink = get_permalink($post->ID);
-            $img = wp_get_attachment_image($news_image_id, 'medium', false, array('class' => 'news-thumbnail'));
-            $output .= '<div class="news-image mb20"><a href="' . esc_url($permalink) . '" class="news-link">' . $img . '</a></div>';
+            $output .= '<div class="news-gallery">';
+            foreach ($news_image_ids as $id) {
+                // 画像をリンク付きで表示
+                $output .= '<a href="' . esc_url($permalink) . '" class="news-link">';
+                $output .= wp_get_attachment_image($id, 'medium', false, array('class' => 'news-thumbnail'));
+                $output .= '</a>';
+            }
+            $output .= '</div>';
         }
     }
-    $output .= '</div>';
 
+    $output .= '</div>';
     return $output;
 }
 add_shortcode('news_images', 'show_latest_news_images');
+
 
 
 /* CSS Time Stamp

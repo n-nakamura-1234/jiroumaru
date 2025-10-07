@@ -17,12 +17,16 @@
 		<h2 class="title">新着情報</h2>
 		<div class="subtitle">News</div>
 
-        
-			<?php echo do_shortcode('[news_images]'); ?>
-		
-
+        <div class="news-flex-wrap">
+            <div class="news-list-area">
+                <?php echo do_shortcode('[myphp file="news-list"]'); ?>
+            </div>
+            <div class="news-images-area">
+                <?php echo do_shortcode('[news_images]'); ?>
+            </div>
+        </div>
 		<!-- [myphp file='news-list'] -->
-        <?php echo do_shortcode('[myphp file="news-list"]'); ?>
+        
 		<div class="btn-area">
 			<a href="http://jiroumaru.local/news/" class="btn">すべてを見る</a>
 		</div>
