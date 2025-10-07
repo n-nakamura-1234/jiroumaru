@@ -114,6 +114,7 @@ function wpcf7_validate_email_filter_confrim($result, $tag)
 	return $result;
 }
 
+
 // カスタム投稿タイプ "news" に画像アップロード用メタボックスを追加
 function add_news_image_meta_box() {
     add_meta_box(
@@ -178,16 +179,30 @@ function save_news_image_meta($post_id) {
 }
 add_action('save_post', 'save_news_image_meta');
 
-// 投稿での出力例
-// 投稿テンプレート (single-news.phpなど) に下記を記述すると表示できます
-/*
-<?php
-$news_image_id = get_post_meta(get_the_ID(), '_news_image_id', true);
-if($news_image_id){
-    echo wp_get_attachment_image($news_image_id, 'large');
+// 最新のnews投稿の画像を表示するショートコード
+function show_latest_news_images() {
+    $latest_news = get_posts(array(
+        'post_type'      => 'news',
+        'posts_per_page' => 2, // 表示件数を変更可能
+        'post_status'    => 'publish'
+    ));
+
+    if (!$latest_news) return '';
+
+    $output = '<div class="news-image-list">';
+    foreach ($latest_news as $post) {
+        $news_image_id = get_post_meta($post->ID, '_news_image_id', true);
+        if ($news_image_id) {
+            $permalink = get_permalink($post->ID);
+            $img = wp_get_attachment_image($news_image_id, 'medium', false, array('class' => 'news-thumbnail'));
+            $output .= '<div class="news-image mb20"><a href="' . esc_url($permalink) . '" class="news-link">' . $img . '</a></div>';
+        }
+    }
+    $output .= '</div>';
+
+    return $output;
 }
-?>
-*/
+add_shortcode('news_images', 'show_latest_news_images');
 
 
 /* CSS Time Stamp

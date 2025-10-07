@@ -16,6 +16,11 @@
 	<div class="container-content">
 		<h2 class="title">新着情報</h2>
 		<div class="subtitle">News</div>
+
+        <div class="innerS mt40">
+			<?php echo do_shortcode('[news_images]'); ?>
+		</div>
+        
 		<!-- [myphp file='news-list'] -->
         <?php echo do_shortcode('[myphp file="news-list"]'); ?>
 		<div class="btn-area">
@@ -118,6 +123,27 @@
 <h2 class="title">次郎丸ブログ</h2>
 <div class="subtitle">Blog</div>
 <div class="innerS">
+    <?php
+// 最新のnews投稿を取得
+$latest_news = get_posts(array(
+    'post_type'      => 'news',
+    'posts_per_page' => 1,
+    'post_status'    => 'publish'
+));
+
+if ($latest_news) :
+    $news_id = $latest_news[0]->ID;
+    $news_image_id = get_post_meta($news_id, '_news_image_id', true);
+
+    if ($news_image_id) :
+        echo '<div class="news-image mb20">';
+        echo wp_get_attachment_image($news_image_id, 'medium', false, array('class' => 'news-thumbnail'));
+        echo '</div>';
+    endif;
+endif;
+?>
+
+
 	<div class="bb-box">
 	<div class="rss-area">
     <?php echo do_shortcode('[RSSImport display="5" feedurl="http://rssblog.ameba.jp/wasaij/rss20.xml" date="true" date_format="Y/m/d" target="blank"]'); ?>    
