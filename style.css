@@ -1231,10 +1231,10 @@ br.sp {
 /* 親：横並び */
 .news-flex-wrap {
   display: flex;
-  justify-content: space-between; /* 左右に配置 */
-  align-items: center;        /* 上端を揃える */
-  gap: 20px;                      /* 左右の間隔 */
-  flex-wrap: wrap;                /* 狭い画面では縦並び */
+  justify-content: space-between; 
+  align-items: flex-start;       
+  gap: 20px;                     
+  flex-wrap: wrap;               
 }
 
 /* 子要素の横幅指定 */
@@ -1273,6 +1273,7 @@ br.sp {
 @media (max-width: 768px) {
   .news-flex-wrap {
     flex-direction: column-reverse;
+    align-items: center;
   }
   .news-list-area,
   .news-images-area {
