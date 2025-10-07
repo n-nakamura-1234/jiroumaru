@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 
-<h2 class="title greeting-title first-title">ごあいさつ1</h2>
+<h2 class="title greeting-title first-title">ごあいさつ</h2>
 <div class="subtitle">Greeting</div>
 
 <p class="text-c">一歩店内に入ると、旧本陣の主柱はそのままに残り、入口、屋根には井戸から湧く自然水が流れ、<br class="pc">対比して床下には１１９平方メートルに渡り、炭を敷き詰め、理想の遊空間を作り出しています。<br>
