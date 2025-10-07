@@ -114,7 +114,7 @@ function wpcf7_validate_email_filter_confrim($result, $tag)
 	return $result;
 }
 
-
+// ここから下は、新着で選択した画像が表示・リンクの設定
 // カスタム投稿タイプ "news" に画像アップロード用メタボックスを追加
 function add_news_image_meta_box() {
     add_meta_box(
@@ -203,7 +203,7 @@ function show_latest_news_images() {
     return $output;
 }
 add_shortcode('news_images', 'show_latest_news_images');
-
+// ここまで
 
 /* CSS Time Stamp
 ---------------------------------------------------------- */

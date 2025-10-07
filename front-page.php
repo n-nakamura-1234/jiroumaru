@@ -18,7 +18,7 @@
 		<div class="subtitle">News</div>
 
         
-			<?php echo do_shortcode('[news_images]'); ?>
+			<!-- <?php echo do_shortcode('[news_images]'); ?> -->
 		
 
 		<!-- [myphp file='news-list'] -->
