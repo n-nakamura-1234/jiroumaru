@@ -8,7 +8,7 @@
 その中でみなさまに本格的な木作りの良さと建物の時代感を味わっていただければ幸いです。<br>
 時代は明治維新。地方の長として、庄屋として政治の舞台となったこの屋敷をお楽しみください</p>
 <div class="btn-area">
-	<a href="http://jiroumaru.local/about/" class="btn">和菜亭 次郎丸について</a>
+	<a href="http://jiromaru.co.jp/about/" class="btn">和菜亭 次郎丸について</a>
 </div>
 
 
@@ -28,7 +28,7 @@
 		<!-- [myphp file='news-list'] -->
         
 		<div class="btn-area">
-			<a href="http://jiroumaru.local/news/" class="btn">すべてを見る</a>
+			<a href="http://jiromaru.co.jp/news/" class="btn">すべてを見る</a>
 		</div>
 	</div>
 </div>
@@ -37,28 +37,28 @@
 	<div class="f-item">
 		<h3 class="title mt0" style="letter-spacing: -1px;">テイクアウトメニュー</h3>
 		<div class="subtitle mb15">Take out menu</div>
-		<img src="http://jiroumaru.local/wp-content/uploads/2022/04/home_takeout_img.jpg" class="home-menu-img">
+		<img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/home_takeout_img.jpg" class="home-menu-img">
 		<p class="text-c mb0"><small>　</small></p>
 		<div class="btn-area mt15">
-			<a href="http://jiroumaru.local/menu/#tab4" class="btn btn-w100 btn-black">テイクアウトメニューをみる</a>
+			<a href="http://jiromaru.co.jp/menu/#tab4" class="btn btn-w100 btn-black">テイクアウトメニューをみる</a>
 		</div>
 	</div>
 	<div class="f-item">
 		<h3 class="title mt0">昼のお品書き</h3>
 		<div class="subtitle mb15">Lunch menu</div>
-		<img src="http://jiroumaru.local/wp-content/uploads/2022/04/home_lunch_img.jpg" class="home-menu-img">
+		<img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/home_lunch_img.jpg" class="home-menu-img">
 		<p class="text-c mb0"><small>昼の営業時間　11:00-15:00（L.O.14:00）</small></p>
 		<div class="btn-area mt15">
-			<a href="http://jiroumaru.local/menu/#tab1" class="btn btn-w100 btn-black">昼のお品書きをみる</a>
+			<a href="http://jiromaru.co.jp/menu/#tab1" class="btn btn-w100 btn-black">昼のお品書きをみる</a>
 		</div>
 	</div>
 	<div class="f-item">
 		<h3 class="title mt0">夜のお品書き</h3>
 		<div class="subtitle mb15">Dinner time</div>
-		<img src="http://jiroumaru.local/wp-content/uploads/2022/04/home_dinner_img.jpg" class="home-menu-img">
+		<img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/home_dinner_img.jpg" class="home-menu-img">
 		<p class="text-c mb0"><small>夜の営業時間　17:30-21:00（L.O.20:00）</small></p>
 		<div class="btn-area mt15">
-			<a href="http://jiroumaru.local/menu/#tab2" class="btn btn-w100 btn-black">夜のお品書きをみる</a>
+			<a href="http://jiromaru.co.jp/menu/#tab2" class="btn btn-w100 btn-black">夜のお品書きをみる</a>
 		</div>
 	</div>
 </div>
@@ -68,11 +68,11 @@
         <h3 class="title mt0"><span class="text-90">東広島での法事・お食事に</span></h3>
         <div class="subtitle mb15">Memorial Service</div>
         <div class="section-menu-img-wrapper">
-            <img class="home-menu-img section-menu-img" src="http://jiroumaru.local/wp-content/uploads/2025/08/menu_mv-fixed.jpg" alt="法事・お食事">
+            <img class="home-menu-img section-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2025/08/menu_mv-fixed.jpg" alt="法事・お食事">
         </div>
         <p class="text-c mb0"><small>　</small></p>
         <div class="btn-area mt15">
-            <a class="btn btn-w100 btn-black" href="http://jiroumaru.local/menu/#tab6">法事のお食事をみる</a>
+            <a class="btn btn-w100 btn-black" href="http://jiromaru.co.jp/menu/#tab6">法事のお食事をみる</a>
         </div>
     </div>
 
@@ -80,11 +80,11 @@
         <h3 class="title mt0">ご家族のお祝いに</h3>
         <div class="subtitle mb15">Family Celebration</div>
         <div class="section-menu-img-wrapper">
-            <img class="home-menu-img section-menu-img" src="http://jiroumaru.local/wp-content/uploads/2025/08/kinenbiplan-fixed.jpg" alt="ご家族のお祝い">
+            <img class="home-menu-img section-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2025/08/kinenbiplan-fixed.jpg" alt="ご家族のお祝い">
         </div>
         <p class="text-c mb0"><small>　</small></p>
         <div class="btn-area mt15">
-            <a class="btn btn-w100 btn-black" href="http://jiroumaru.local/menu/#tab7">お祝いのお席をみる</a>
+            <a class="btn btn-w100 btn-black" href="http://jiromaru.co.jp/menu/#tab7">お祝いのお席をみる</a>
         </div>
     </div>
 
@@ -92,11 +92,11 @@
         <h3 class="title mt0">お食い初めのお祝いに</h3>
         <div class="subtitle mb15">First Meal Ceremony</div>
         <div class="section-menu-img-wrapper">
-            <img class="home-menu-img section-menu-img" src="http://jiroumaru.local/wp-content/uploads/2022/04/okosama.jpg" alt="お食い初めのお祝い">
+            <img class="home-menu-img section-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2022/04/okosama.jpg" alt="お食い初めのお祝い">
         </div>
         <p class="text-c mb0"><small>　</small></p>
         <div class="btn-area mt15">
-            <a class="btn btn-w100 btn-black" href="http://jiroumaru.local/menu/#tab8">お食い初めプランをみる</a>
+            <a class="btn btn-w100 btn-black" href="http://jiromaru.co.jp/menu/#tab8">お食い初めプランをみる</a>
         </div>
     </div>
 </div>
@@ -163,7 +163,7 @@ endif;
 <div class="subtitle">Recruit</div>
 <p class="text-c">フリーターさん大歓迎!! 未経験者でも大丈夫! おいしいまかないが評判です！！</p>
 <div class="btn-area mt15">
-	<a href="http://jiroumaru.local/recruit/" class="btn btn-black">詳しくみる</a>
+	<a href="http://jiromaru.co.jp/recruit/" class="btn btn-black">詳しくみる</a>
 </div>
 
 
@@ -176,7 +176,7 @@ endif;
 <h2 class="title">ご予約・お問い合わせ</h2>
 <div class="subtitle">Reserve</div>
 <div class="btn-area mt15">
-	<a href="http://jiroumaru.local/contact/" class="btn btn-black btn-reserve"><span>ご予約フォーム</span></a>
+	<a href="http://jiromaru.co.jp/contact/" class="btn btn-black btn-reserve"><span>ご予約フォーム</span></a>
 </div>
 <div class="btn-area mt15">
 	<a href="tel:0824237556" class="btn btn-tel"><span>082-423-7556</span></a>
@@ -184,14 +184,14 @@ endif;
 
 <div class="section pb0">
 	<div class="f-box4-bnr">
-		<div class="f-item"><a href="https://higashihiroshima-digital-recruit.com/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/f-banner01.jpg"></a></div>
-		<div class="f-item"><a href="http://ameblo.jp/fmhigashi/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/f-banner02.jpg"></a></div>
-		<div class="f-item"><a href="http://www.city.higashihiroshima.lg.jp/index.html" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/f-banner03.jpg"></a></div>
-		<div class="f-item"><a href="https://higashihiroshima-digital.com/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/f-banner04.jpg"></a></div>
-		<div class="f-item"><a href="http://hotelvancornell.jp/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/f-banner05.jpg"></a></div>
-		<div class="f-item"><a href="https://hakuryuko-resort.co.jp/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/bnr_resort.jpg"></a></div>
-		<div class="f-item"><a href="https://hakuryuko.co.jp/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/bnr_hrk.jpg"></a></div>
-		<div class="f-item"><a href="https://menekiup.club/" target="_blank" rel="noopener"><img src="http://jiroumaru.local/wp-content/uploads/2022/04/bnr_meneki.jpg"></a></div>
+		<div class="f-item"><a href="https://higashihiroshima-digital-recruit.com/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/f-banner01.jpg"></a></div>
+		<div class="f-item"><a href="http://ameblo.jp/fmhigashi/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/f-banner02.jpg"></a></div>
+		<div class="f-item"><a href="http://www.city.higashihiroshima.lg.jp/index.html" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/f-banner03.jpg"></a></div>
+		<div class="f-item"><a href="https://higashihiroshima-digital.com/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/f-banner04.jpg"></a></div>
+		<div class="f-item"><a href="http://hotelvancornell.jp/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/f-banner05.jpg"></a></div>
+		<div class="f-item"><a href="https://hakuryuko-resort.co.jp/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/bnr_resort.jpg"></a></div>
+		<div class="f-item"><a href="https://hakuryuko.co.jp/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/bnr_hrk.jpg"></a></div>
+		<div class="f-item"><a href="https://menekiup.club/" target="_blank" rel="noopener"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/bnr_meneki.jpg"></a></div>
 	</div>
 </div>
 

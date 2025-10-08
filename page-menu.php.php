@@ -178,7 +178,6 @@ get_header(); ?>
             <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"></a>
         </div>
         <div class="f-item">
-            <!-- <div class="midashi font-min">○即予約</div> -->
             <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
             <h3 class="line-title font-min mb0" style="border: none;">特すき御膳<span class="price">5,650円</span></h3>
             <h3 class="line-title font-min mb0" style="border: none;">上すき御膳<span class="price">4,550円</span></h3>
@@ -212,11 +211,107 @@ get_header(); ?>
 <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p3_compressed.jpg" id="menu-image-p3" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p3_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-769" /></a>
 <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p4_compressed.jpg" id="menu-image-p4" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p4_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a>
 <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p5_compressed.jpg" id="menu-image-5" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p5_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a>
-
+<div class="f-box3 menu-box">
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">刺身盛り合わせ<span class="price">3,080円</span></h3>
+</div>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">帆立バター醤油<span class="price">1,250円</span></h3>
+</div>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0" style="padding-bottom: 2em;">手羽先唐揚げ<span class="price">640円</span></h3>
+</div>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">出汁巻き<span class="price">960円</span></h3>
+</div>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">握り寿司<span class="price">2,800円</span></h3>
+</div>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">布海苔そば<span class="price">950円</span></h3>
+</div>
+</div>
 <!-- 250310  -->
-<h3 class="title" style="margin-bottom: 3rem;  display: none;">単品料理（夜のみ）</h3>
-<div class="night-menu__btn-box"><a class="btn" href="#menu-image-p3">肉料理・魚料理</a> <a class="btn" href="#menu-image-p4">甘未・会席料理</a> <a class="btn" href="#menu-image-5">食事物・麺類</a> <a class="btn" href="#menu-image-5">鍋料理・その他</a></div>
+
+<!-- <h3 class="title" style="margin-bottom: 3rem;">単品料理（夜のみ）</h3> -->
+<div class="night-menu__btn-box"><a class="btn" href="#night-fish-menu">魚料理</a> <a class="btn" href="#night-meat-menu">肉料理</a> <a class="btn" href="#night-noodles-menu">食事物・麺類</a> <a class="btn" href="#night-other-menu">その他</a></div>
+<div class="innerS night-menu__inner">
+<p id="night-fish-menu" class="text-c font-min"><strong>魚料理</strong></p>
+<div class="drink-list">刺身盛り合わせ<span class="price">3,080円</span></div>
+<div class="drink-list">カツオタタキ<span class="price">1,450円</span></div>
+<div class="drink-list">海鮮サラダ<span class="price">1,430円</span></div>
+<div class="drink-list">地穴子天婦羅<span class="price">1,320円</span></div>
+<div class="drink-list">帆立バター醤油<span class="price">1,250円</span></div>
+<div class="drink-list">蛸の天婦羅<span class="price">1,300円</span></div>
+<div class="drink-list">さざえつぼ焼き<span class="price">720円</span></div>
+
+<p id="night-meat-menu" class="text-c font-min"><strong>肉料理</strong></p>
+<div class="drink-list">峠下牛ロースステーキ<span class="price">4,000円</span></div>
+<div class="drink-list">馬刺し赤身<span class="price">2,200円</span></div>
+<div class="drink-list">黒豚とんかつ<span class="price">1,540円</span></div>
+<div class="drink-list">生ハムサラダ<span class="price">1,320円</span></div>
+<div class="drink-list">自家製鯉地鶏唐揚げ<span class="price">980円</span></div>
+<div class="drink-list">手羽先唐揚げ<span class="price">640円</span></div>
+
+<p id="night-other-menu" class="text-c font-min"><strong>その他</strong></p>
+<div class="drink-list">天婦羅盛り合わせ<span class="price">2,000円</span></div>
+<div class="drink-list">鯛荒炊き<span class="price">1,650円</span></div>
+<div class="drink-list">出汁巻き<span class="price">960円</span></div>
+<div class="drink-list">牛蒡と蓮根のパリパリサラダ<span class="price">880円</span></div>
+<div class="drink-list">季節の茶碗蒸し<span class="price">680円</span></div>
+<div class="drink-list">めひかり唐揚げ<span class="price">660円</span></div>
+
+<p id="night-other-menu" class="text-c font-min"><strong>鍋料理(2人前~)</strong></p>
+<div class="drink-list">次郎丸鍋<span class="price">2,500円</span></div>
+<div class="drink-list">美酒鍋<span class="price">2,200円</span></div>
+<div class="drink-list">特上すき焼<span class="price">4,840円</span></div>
+<div class="drink-list">上すき焼<span class="price">3,630 円</span></div>
+<div class="drink-list">特上しゃぶしゃぶ<span class="price">4,840円</span></div>
+<div class="drink-list">上しゃぶしゃぶ<span class="price">3,630円</span></div>
+
+<p id="night-noodles-menu" class="text-c font-min"><strong>食事物・麺類</strong></p>
+<div class="drink-list">握り寿司<span class="price">2,800円</span></div>
+<div class="drink-list">海鮮巻<span class="price">2,500円</span></div>
+<div class="drink-list">鯛茶漬け<span class="price">1,430円</span></div>
+<div class="drink-list">布海苔そば<span class="price">950円</span></div>
+<div class="drink-list">鮭茶漬け<span class="price">1,200円</span></div>
+<div class="drink-list">梅茶漬け<span class="price">800円</span></div>
+<div class="drink-list">むすび（おかか・梅）<span class="price">250円</span></div>
+<div class="drink-list">白ご飯（漬物付き）<span class="price">200円</span></div>
+<div class="drink-list">鮭いくら丼<span class="price">2,000円</span></div>
+
+<p class="text-c font-min"><strong>甘味</strong></p>
+<div class="drink-list">白玉ぜんざい<span class="price">770円</span></div>
+<div class="drink-list">アイス最中</small><span class="price">770円</span></div>
+<div class="drink-list">くずもち<span class="price">550円</span></div>
+<div class="drink-list">手作りプリン<span class="price">550円</span></div>
+<div class="drink-list">胡麻団子<span class="price">150円</span></div>
+
+</div>
 <!-- end of 250310  -->
+<!-- 250310  -->
+<!-- <h3 class="title" style="margin-bottom: 3rem;  display: none;">単品料理（夜のみ）</h3>
+<div class="night-menu__btn-box"><a class="btn" href="#menu-image-p3">肉料理・魚料理</a> <a class="btn" href="#menu-image-p4">甘未・会席料理</a> <a class="btn" href="#menu-image-5">食事物・麺類</a> <a class="btn" href="#menu-image-5">鍋料理・その他</a></div> -->
+<!-- end of 250310  -->
+
+<h3 class="title" style="margin-bottom: 3rem;">甘味</h3>
+<div class="f-box3 menu-box">
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">ごま団子<span class="price">150円</span></h3>
+</div>
+
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg" /></a>
+<div class="midashi font-min"> </div>
+<h3 class="line-title font-min mb0">アイス最中<span class="price">770円</span></h3>
+</div>
+</div>
 
 <p>御飯のおかわりは、お気軽にスタッフまでお申し付け下さい。<br />※夜の定食は予約状況によりお時間を頂くことがございますので予めご了承下さい。<br />お車を運転されるお客様へのアルコールの販売はお断りさせて頂きます。</p>
 <div class="red-box innerS">
@@ -493,7 +588,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru4.local/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="https://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -555,7 +650,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru4.local/reserve/"> ご予約フォーム </a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="https://jiromaru.co.jp/reserve/"> ご予約フォーム </a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556"> 082-423-7556 </a></div>
 </div>
 </div>
