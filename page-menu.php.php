@@ -208,9 +208,6 @@ get_header(); ?>
 </div>
 </div>
 <h3 class="title" style="margin-bottom: 3rem;">単品料理</h3>
-<a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p3_compressed.jpg" id="menu-image-p3" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p3_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-769" /></a>
-<a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p4_compressed.jpg" id="menu-image-p4" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p4_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a>
-<a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p5_compressed.jpg" id="menu-image-5" class="dish-image-link"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/menu2509_p5_compressed.jpg" alt="" width="2000" height="1415" class="alignnone size-full wp-image-768" /></a>
 <div class="f-box3 menu-box">
 <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg" /></a>
 <div class="midashi font-min"> </div>
@@ -288,7 +285,7 @@ get_header(); ?>
 
 <p class="text-c font-min"><strong>甘味</strong></p>
 <div class="drink-list">白玉ぜんざい<span class="price">770円</span></div>
-<div class="drink-list">アイス最中</small><span class="price">770円</span></div>
+<div class="drink-list">アイス最中<span class="price">770円</span></div>
 <div class="drink-list">くずもち<span class="price">550円</span></div>
 <div class="drink-list">手作りプリン<span class="price">550円</span></div>
 <div class="drink-list">胡麻団子<span class="price">150円</span></div>
