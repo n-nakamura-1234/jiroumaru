@@ -209,27 +209,28 @@ get_header(); ?>
 </div>
 <h3 class="title" style="margin-bottom: 3rem;">単品料理</h3>
 <div class="f-box3 menu-box">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-fixed-new.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">刺身盛り合わせ<span class="price">3,080円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate-fixed.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">帆立バター醤油<span class="price">1,250円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki-fixed.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0" style="padding-bottom: 2em;">手羽先唐揚げ<span class="price">640円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/dashimaki-fixed.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">出汁巻き<span class="price">960円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg" /></a>
+<!-- <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg" /></a> -->
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2022/07/Group-4-3.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">握り寿司<span class="price">2,800円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba-fixed.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">布海苔そば<span class="price">950円</span></h3>
 </div>
@@ -299,12 +300,12 @@ get_header(); ?>
 
 <h3 class="title" style="margin-bottom: 3rem;">甘味</h3>
 <div class="f-box3 menu-box">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadanngo-fixed.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">ごま団子<span class="price">150円</span></h3>
 </div>
 
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg" /></a>
+<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadanngo-fixed-1.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">アイス最中<span class="price">770円</span></h3>
 </div>

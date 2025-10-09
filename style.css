@@ -1281,6 +1281,12 @@ br.sp {
   }
 }
 
+@media only screen and (min-width: 769px) {
+    .of-menu-img {
+        height: 230px;
+    }
+}
+
 
 
 
