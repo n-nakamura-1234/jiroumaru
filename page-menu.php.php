@@ -6,7 +6,19 @@ get_header(); ?>
 <h2 class="title">おすすめメニュー</h2>
 <div class="subtitle">Recommended</div>
 <div class="container-wrapper mb0" style="padding: 0;">
-<div class="menu-card"><a href="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg"><img class="of-menu-img menu-card__image" src="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg" /></a> <!-- <div>[metaslider id="123"]</div> --></div>
+<div class="menu-card">
+    
+    <!-- チラシ一枚表示 -->
+    <!-- <a href="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg">
+        <img class="of-menu-img menu-card__image" src="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg" />
+    </a>  -->
+
+    <!-- 固定ページ直書き -->
+    <!-- <div>[metaslider id="123"]</div> -->
+
+    <!-- GitHubに挙げる用 -->
+    <?php echo do_shortcode('[metaslider id="123"]'); ?>
+</div>
 </div>
 <div id="tab1" class="js-accordion-title page-link">
 <div class="inner">
