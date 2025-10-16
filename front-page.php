@@ -123,11 +123,10 @@
     </h3>
 </div>
 
-
 <h2 class="title">次郎丸ブログ</h2>
 <div class="subtitle">Blog</div>
 <div class="innerS">
-    <?php
+    <!-- <?php
 // 最新のnews投稿を取得
 $latest_news = get_posts(array(
     'post_type'      => 'news',
@@ -145,7 +144,7 @@ if ($latest_news) :
         echo '</div>';
     endif;
 endif;
-?>
+?> -->
 
 
 	<div class="bb-box">
