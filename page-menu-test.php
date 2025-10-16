@@ -1,12 +1,7 @@
-<?php
-/*
-Template Name: おすすめメニュー
-*/
-get_header(); ?>
 <h2 class="title">おすすめメニュー</h2>
 <div class="subtitle">Recommended</div>
 <div class="container-wrapper mb0" style="padding: 0;">
-<div class="menu-card"><a href="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg"><img class="of-menu-img menu-card__image" src="https://jiromaru.co.jp/wp-content/uploads/2022/07/2022_07tonkatu.jpg" /></a> <!-- <div>[metaslider id="123"]</div> --></div>
+<div class="menu-card"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/07/2022_07tonkatu.jpg"><img class="of-menu-img menu-card__image" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/07/2022_07tonkatu.jpg" /></a> <!-- <div>[metaslider id="123"]</div> --></div>
 </div>
 <div id="tab1" class="js-accordion-title page-link">
 <div class="inner">
@@ -18,66 +13,66 @@ get_header(); ?>
 <div class="accordion__content">   
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item" style="margin-bottom: 1rem;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
-<div class="f-item" style="margin-bottom: 0;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg" /></a> </div>
+<div class="f-item" style="margin-bottom: 1rem;"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
+<div class="f-item" style="margin-bottom: 0;"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p2.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p2.jpg" /></a> </div>
 </div>
 </div>
 
 <div class="f-box2 menu-box">
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
         <div class="midashi font-min">平日のみ食前酒付き</div>
         <h3 class="line-title font-min">奥様女子会御膳<span class="price">3,450円</span></h3>
         <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span><br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
-    <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
+    <div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
         <!-- <div class="midashi font-min"> </div> -->
         <h3 class="line-title font-min">ステーキ御膳<span class="price" style="text-align: right;">3,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
         <h3 class="line-title font-min">ステーキ丼<span class="price">3,150円</span></h3>
         <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
         <h3 class="line-title font-min">黒豚とんかつ膳<span class="price">2,980円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
         <h3 class="line-title font-min">刺身御膳<span class="price">2,980円</span></h3>
         <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
         <h3 class="line-title font-min">天婦羅御膳<span class="price">2,650円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
         <h3 class="line-title font-min">こい地鶏の唐揚げ御膳<span class="price">2,650円</span></h3>
         <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
         <div class="midashi font-min">2日前までの要予約</div>
         <h3 class="line-title font-min">うなぎひつまぶし御膳<span class="price">4,130円</span></h3>
         <p class="menu-text">小鉢・赤だし・香物・フルーツ<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
         <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>※内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/kazuna-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/kazuna-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/kazuna-fixed.jpg" /></a>
         <div class="midashi font-min">平日昼限定20食</div>
         <h3 class="line-title font-min">和菜膳<span class="price">2,350円</span></h3>
         <p class="menu-text">刺身・小鉢・煮物・茶碗蒸し・揚げ物<br>ご飯・香物・赤だし<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
@@ -85,7 +80,7 @@ get_header(); ?>
 
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
-            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"></a>
+            <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/Group-3.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/Group-3.jpg"></a>
         </div>
         <div class="f-item">
             <!-- <div class="midashi font-min">○即予約</div> -->
@@ -100,7 +95,7 @@ get_header(); ?>
 </div>
 
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 <div class="js-acc-single">
@@ -114,68 +109,68 @@ get_header(); ?>
 <div class="accordion__content">
 <div class="course-kasikiri-area">
     <div class="f-item f-box2" style="width: 100%;">
-        <div class="f-item" style="margin-bottom: 1rem;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
-        <div class="f-item" style="margin-bottom: 0;"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/matsutake-p2.jpg" /></a> </div>
+        <div class="f-item" style="margin-bottom: 1rem;"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p1.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p1.jpg" /></a></div>
+        <div class="f-item" style="margin-bottom: 0;"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p2.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/matsutake-p2.jpg" /></a> </div>
     </div>
 </div>
 
 <div class="f-box2 menu-box">
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/zyoshikai-fix.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/zyoshikai-fix.jpg" /></a>
         <div class="midashi font-min">平日のみ食前酒付き</div>
         <h3 class="line-title font-min">奥様女子会御膳<span class="price">3,450円</span></h3>
         <p class="menu-text">小鉢3種・刺身2種・天婦羅・茶碗蒸し<br> 牛肉陶板焼き・ご飯・赤だし・香物<br><span class="font-red">アフタードリンク・デザート付き</span><br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
-    <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
+    <div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stake-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stake-fixed.jpg" /></a>
         <!-- <div class="midashi font-min"> </div> -->
         <h3 class="line-title font-min">ステーキ御膳<span class="price" style="text-align: right;">3,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stekidonn-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/stekidonn-fixed.jpg" /></a>
         <h3 class="line-title font-min">ステーキ丼<span class="price">3,150円</span></h3>
         <p class="menu-text">小鉢・サラダ・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tonkatshu-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tonkatshu-fixed.jpg" /></a>
         <h3 class="line-title font-min">黒豚とんかつ膳<span class="price">2,980円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/sashimi-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/sashimi-fixed.jpg" /></a>
         <h3 class="line-title font-min">刺身御膳<span class="price">2,980円</span></h3>
         <p class="menu-text">小鉢・サラダ・煮物・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tenpura-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/tenpura-fixed.jpg" /></a>
         <h3 class="line-title font-min">天婦羅御膳<span class="price">2,650円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/koizidori-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/koizidori-fixed.jpg" /></a>
         <h3 class="line-title font-min">こい地鶏の唐揚げ御膳<span class="price">2,650円</span></h3>
         <p class="menu-text">煮物・小鉢・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/yuba-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/yuba-fixed.jpg" style="object-position: center 10%;"/></a>
         <h3 class="line-title font-min">湯葉豆腐ステーキ御膳<span class="price">2,450円</span></h3>
         <p class="menu-text">煮物・サラダ・刺身1種・ご飯・赤だし・香物<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/unagidon-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/unagidon-fixed.jpg" /></a>
         <div class="midashi font-min">2日前までの要予約</div>
         <h3 class="line-title font-min">うなぎひつまぶし御膳<span class="price">4,130円</span></h3>
         <p class="menu-text">小鉢・赤だし・香物・フルーツ<br><small>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
     <div class="f-item">
-        <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
+        <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/250925-okosama-fixed.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/250925-okosama-fixed.jpg" /></a>
         <h3 class="line-title font-min">お子様弁当<span class="price">1,210円</span></h3>
         <p class="menu-text">オムライス・ウィンナー・唐揚げ・エビフライ・白身フライ・プリン・ハンバーグ<br><small>※内容はかわる場合がございます。<br>※仕入れ状況により内容がかわることがあります。<br>※写真はイメージです。</small></p>
     </div>
 
     <div class="f-item f-box2" style="width: 100%;">
         <div class="f-item">
-            <a href="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/09/Group-3.jpg"></a>
+            <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/Group-3.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/09/Group-3.jpg"></a>
         </div>
         <div class="f-item">
             <h3 class="line-title font-min mb0" style="border: none;">すき焼き・しゃぶしゃぶ</h3>
@@ -191,17 +186,17 @@ get_header(); ?>
 
 <h3 class="title" style="margin-bottom: 3rem;">そば・丼ぶり</h3>
 <div class="f-box2 menu-box">
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/04/stakedon.jpg"><img class="of-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2022/04/stakedon.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/stakedon.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/stakedon.jpg" /></a>
 <div class="midashi font-min">ガッツリ食べたい人にオススメ</div>
 <h3 class="line-title font-min">特製ステーキ丼<span class="price">3,000円</span></h3>
 <p class="menu-text">サラダ 赤出汁 香の物付き 次郎丸風にアレンジしたステーキ丼</p>
 </div>
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/04/funorisoba.jpg"><img class="of-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2022/04/funorisoba.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/funorisoba.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/funorisoba.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min">布海苔そば<span class="price" style="text-align: right;"><small>〈一人前〉</small>950円</span></h3>
 <p class="menu-text">主に日本海側で食べられるそばで、つなぎにクロフノリという海藻を使用しています。容器に「へぎ」という木製の器を使うことから、へぎそばとも呼ばれています。<br />海藻由来の強い弾力とつるみ、風味をお楽しみください。</p>
 </div>
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/04/okosama.jpg"><img class="of-menu-img" src="http://jiromaru.co.jp/wp-content/uploads/2022/04/okosama.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/okosama.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/okosama.jpg" /></a>
 <div class="midashi font-min">ちいさなお子様に…</div>
 <h3 class="line-title font-min">お城のお子様弁当<span class="price">1,210円</span></h3>
 <p class="menu-text">◆小学生以下のお子様に限らせていただきます。オレンジジュースかリンゴジュースをお選びください</p>
@@ -209,28 +204,27 @@ get_header(); ?>
 </div>
 <h3 class="title" style="margin-bottom: 3rem;">単品料理</h3>
 <div class="f-box3 menu-box">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/sashimi-fixed-new.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/sashimi-jiromaru.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/sashimi-jiromaru.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">刺身盛り合わせ<span class="price">3,080円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/hotate-fixed.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/hotate.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/hotate.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">帆立バター醤油<span class="price">1,250円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/tebasaki-fixed.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/tebasaki.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/tebasaki.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0" style="padding-bottom: 2em;">手羽先唐揚げ<span class="price">640円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/dasimaki.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/dashimaki-fixed.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/dasimaki.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/dasimaki.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">出汁巻き<span class="price">960円</span></h3>
 </div>
-<!-- <div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg" /></a> -->
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2022/07/Group-4-3.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/nigirizushi.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/nigirizushi.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">握り寿司<span class="price">2,800円</span></h3>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/soba-fixed.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/soba.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/soba.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">布海苔そば<span class="price">950円</span></h3>
 </div>
@@ -300,12 +294,12 @@ get_header(); ?>
 
 <h3 class="title" style="margin-bottom: 3rem;">甘味</h3>
 <div class="f-box3 menu-box">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadango.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadanngo-fixed.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/gomadango.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/gomadango.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">ごま団子<span class="price">150円</span></h3>
 </div>
 
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/10/monaka.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/10/gomadanngo-fixed-1.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/monaka.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/10/monaka.jpg" /></a>
 <div class="midashi font-min"> </div>
 <h3 class="line-title font-min mb0">アイス最中<span class="price">770円</span></h3>
 </div>
@@ -317,7 +311,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -332,14 +326,14 @@ get_header(); ?>
 <div class="f-box2 menu-box">
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" /></a></div>
 <div class="f-item">
 <h3 class="line-title font-min mb0" style="border: none;">貸切プラン</h3>
 </div>
 </div>
 </div>
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/06/omakasecourse.jpg"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/06/omakasecourse.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/06/omakasecourse.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/06/omakasecourse.jpg" /></a></div>
 <div class="f-item">
 <div class="midashi font-min">○即予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">料理長おまかせの会席（全9品）</h3>
@@ -354,7 +348,7 @@ get_header(); ?>
 <p class="menu-text mt15">接待や会食にお勧めの料理長おまかせの会席コースです。アレルギーや苦手な食材をはぶいたお料理もご予算に合わせてご用意させて頂いております。</p>
 </div>
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg" /></a></div>
 <div class="f-item">
 <div class="midashi font-min">○即予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">記念日会席プラン ＜全9～10品＞</h3>
@@ -368,7 +362,7 @@ get_header(); ?>
 <p class="menu-text mt15">顔合わせや長寿祝、初節句や七夕など、お祝いの席に。3プランご用意しておりますので、ご利用人数やご予算に合わせてお選びください。食前酒やちゃんちゃんこレンタルサービスの特典もございます。</p>
 </div>
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/08/houyou-fixed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/08/houyou-fixed.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/houyou-fixed.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/houyou-fixed.jpg" /></a></div>
 <div class="f-item">
 <div class="midashi font-min">要予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">法要会席プラン ＜全9～10品＞</h3>
@@ -381,7 +375,7 @@ get_header(); ?>
 </div>
 <p class="menu-text mt15">故人を偲ぶ大切なひとときを、真心こめたお料理で。広々とした個室や、貸切でのご利用も可能ですので、法要の席に重宝します。8名様以上でのご利用でしたら、無料送迎バスもご利用になれます。</p>
 </div>
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2023/09/肉鍋会席コース-2.jpg"><img class="of-menu-img" src="https://jiromaru.co.jp/wp-content/uploads/2023/09/肉鍋会席コース-2.jpg" /></a>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2023/09/肉鍋会席コース-2.jpg"><img class="of-menu-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2023/09/肉鍋会席コース-2.jpg" /></a>
 <div class="midashi font-min">歓送迎会に</div>
 <h3 class="line-title font-min">肉鍋会席コース<span class="price">8,800円</span></h3>
 <p class="menu-text">歓迎会・送別会にピッタリなプランをご用意。幹事様にもうれしい特典をたくさんごよういしております。是非、大切な出会いと旅立ちの宴にご利用下さい。<br /><small>【コース内容】季節の椀 前菜 造里 肉鍋 〆のうどん デザート</small></p>
@@ -393,7 +387,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -508,7 +502,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -522,25 +516,25 @@ get_header(); ?>
 </div>
 <div class="accordion__content">
 <div class="f-box2 menu-box">
-<div class="f-item"><a class="takeout-link" href="https://jiromaru.co.jp/wp-content/uploads/2025/01/osusumebentou250113.jpg"><img class="of-menu-img takeout-img" src="https://jiromaru.co.jp/wp-content/uploads/2025/01/osusumebentou250113.jpg" /></a>
+<div class="f-item"><a class="takeout-link" href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/01/osusumebentou250113.jpg"><img class="of-menu-img takeout-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/01/osusumebentou250113.jpg" /></a>
 <div class="midashi font-min">3日前までに要予約</div>
 <h3 class="line-title font-min" style="border: none; margin: 0;">おすすめ弁当</h3>
 <h3 class="line-title font-min" style="border: none; margin: 0;"><small>錦秋の贅沢弁当<span class="price">4,320円</span></small></h3>
 <h3 class="line-title font-min" style="border: none; margin: 0;"><small>オリジナル旬菜弁当<span class="price">3,780円</span></small></h3>
 <!-- <p class="menu-text">和牛を使用した贅沢なお弁当☆温泉卵付きです。<br>
                 是非、次郎丸のプロの料理人が作ったすき焼きをご自宅でご賞味ください☆</p> --></div>
-<div class="f-item"><a class="takeout-link" href="https://jiromaru.co.jp/wp-content/uploads/2024/10/goukanidannzyu-fixed.jpg"><img class="of-menu-img takeout-img" src="https://jiromaru.co.jp/wp-content/uploads/2024/10/goukanidannzyu-fixed.jpg" /></a>
+<div class="f-item"><a class="takeout-link" href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/goukanidannzyu-fixed.jpg"><img class="of-menu-img takeout-img" src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/goukanidannzyu-fixed.jpg" /></a>
 <div class="midashi font-min">3日前までに要予約</div>
 <h3 class="line-title font-min" style="border: none;">次郎丸 豪華二段折詰<span class="price">7,560円～</span></h3>
 </div>
 <!-- <div class="f-item">
-                <a href="https://jiromaru.co.jp/wp-content/uploads/2024/12/Osechi_fixed.jpg" class="takeout-block-link">
-                <img src="https://jiromaru.co.jp/wp-content/uploads/2024/12/Osechi_fixed.jpg" class="of-menu-img takeout-img"></a>
+                <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/12/Osechi_fixed.jpg" class="takeout-block-link">
+                <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/12/Osechi_fixed.jpg" class="of-menu-img takeout-img"></a>
                 <div class="midashi font-min"><span>ご注文の締め切り 12月25日まで</span></div>
                 <h3 class="line-title font-min marginbottom0 takeout-marginbottom" style="border:none;">寿司盛り（3人前）<span class="price">7,000円(税込)</span></h3>
                 <h3 class="line-title font-min marginbottom0" style="border:none;">オードブル（3人前）<span class="price">7,000円(税込)</span></h3>
                 <div class="btn-area">
-                 <a href="https://jiromaru.co.jp/wp-content/uploads/2024/12/Osechi-reservation.pdf" target="_blank" class="takeout-btn" rel="noopener">申込はこちら</a>
+                 <a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/12/Osechi-reservation.pdf" target="_blank" class="takeout-btn" rel="noopener">申込はこちら</a>
                 </div>
             </div> --></div>
 <h3 class="text-c" style="color: red;">当店では未成年者へのアルコールの販売・飲酒をかたくお断りしております。</h3>
@@ -549,7 +543,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -566,7 +560,7 @@ get_header(); ?>
 </div>
 <div class="f-box2 menu-box">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/08/houyou-fixed.jpg"> <img src="https://jiromaru.co.jp/wp-content/uploads/2025/08/houyou-fixed.jpg" alt="法要会席プラン" /> </a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/houyou-fixed.jpg"> <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/houyou-fixed.jpg" alt="法要会席プラン" /> </a></div>
 <div class="f-item">
 <div class="midashi font-min">要予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">法要会席プラン ＜全9～10品＞</h3>
@@ -586,7 +580,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="https://jiromaru.co.jp/reserve/">ご予約フォーム</a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/">ご予約フォーム</a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556">082-423-7556</a></div>
 </div>
 </div>
@@ -604,7 +598,7 @@ get_header(); ?>
 <div class="f-box2 menu-box"><!-- 貸切プラン -->
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"> <img src="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" alt="貸切プラン" /> </a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"> <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" alt="貸切プラン" /> </a></div>
 <div class="f-item">
 <h3 class="line-title font-min mb0" style="border: none;">貸切プラン</h3>
 </div>
@@ -612,7 +606,7 @@ get_header(); ?>
 </div>
 <!-- 記念日会席プラン -->
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg"> <img src="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg" alt="記念日会席プラン" /> </a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg"> <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg" alt="記念日会席プラン" /> </a></div>
 <div class="f-item">
 <div class="midashi font-min">○即予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">記念日会席プラン ＜全9～10品＞</h3>
@@ -627,7 +621,7 @@ get_header(); ?>
 </div>
 <!-- 料理長おまかせ会席 -->
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/06/omakasecourse.jpg"> <img src="http://jiromaru.co.jp/wp-content/uploads/2022/06/omakasecourse.jpg" alt="料理長おまかせ会席" /> </a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/06/omakasecourse.jpg"> <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/06/omakasecourse.jpg" alt="料理長おまかせ会席" /> </a></div>
 <div class="f-item">
 <div class="midashi font-min">○即予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">料理長おまかせの会席（全9品）</h3>
@@ -648,7 +642,7 @@ get_header(); ?>
 </div>
 <p class="text-c">送迎可能な地域についてはお問い合わせ下さい</p>
 <h3 class="title">お気軽にお問い合わせください</h3>
-<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="https://jiromaru.co.jp/reserve/"> ご予約フォーム </a></div>
+<div class="btn-area mt15"><a class="btn btn-black btn-reserve" href="http://salesseeds.xbiz.jp/jiromaru/reserve/"> ご予約フォーム </a></div>
 <div class="btn-area mt15"><a class="btn btn-tel" href="tel:0824237556"> 082-423-7556 </a></div>
 </div>
 </div>
@@ -662,7 +656,7 @@ get_header(); ?>
 <div class="accordion__content">
 <div class="f-box2 menu-box">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="http://jiromaru.co.jp/wp-content/uploads/2022/04/okosama.jpg"><img src="http://jiromaru.co.jp/wp-content/uploads/2022/04/okosama.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/okosama.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2022/04/okosama.jpg" /></a></div>
 <div class="f-item">
 <div class="midashi font-min">ちいさなお子様に…</div>
 <h3 class="line-title font-min">お城のお子様弁当<span class="price">1,210円</span></h3>
@@ -670,7 +664,7 @@ get_header(); ?>
 </div>
 </div>
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg"><img src="https://jiromaru.co.jp/wp-content/uploads/2025/08/kinennbi-fixed.jpg" /></a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg"><img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2025/08/kinennbi-fixed.jpg" /></a></div>
 <div class="f-item">
 <div class="midashi font-min">○即予約</div>
 <h3 class="line-title font-min mb0" style="border: none;">記念日会席プラン ＜全9～10品＞</h3>
@@ -685,7 +679,7 @@ get_header(); ?>
 </div>
 <div class="course-kasikiri-area">
 <div class="f-item f-box2" style="width: 100%;">
-<div class="f-item"><a href="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"> <img src="https://jiromaru.co.jp/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" alt="貸切プラン" /> </a></div>
+<div class="f-item"><a href="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg"> <img src="http://salesseeds.xbiz.jp/jiromaru/wp-content/uploads/2024/10/kasikiri02-fixed.jpg" alt="貸切プラン" /> </a></div>
 <div class="f-item">
 <h3 class="line-title font-min mb0" style="border: none;">貸切プラン</h3>
 </div>
@@ -694,4 +688,3 @@ get_header(); ?>
 </div>
 </div>
 </div>
-<?php get_footer(); ?>

@@ -1203,3 +1203,90 @@ br.sp {
 .night-menu__inner .drink-list + p {
 	margin-top: 2rem;
 }
+
+/* 250925 */
+.font-red{
+    color: red;
+}
+
+/* .center-img{
+    display: block;
+    margin: 0 auto;
+} */
+
+.center-text{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.text-info{
+	text-align: center;
+    font-family: 'Noto Serif JP', 'ヒラギノ明朝 Pro', 'Hiragino Mincho Pro', '游明朝', 'Yu Mincho', '游明朝体', 'YuMincho', 'ＭＳ Ｐ明朝', 'MS PMincho', serif;
+	background-color:black;
+	color:white;
+	margin:0 0 3rem;
+}
+
+/* 親：横並び */
+.news-flex-wrap {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;       
+    gap: 20px;                     
+    flex-wrap: wrap;               
+}
+
+/* 子要素の横幅指定 */
+.news-list-area {
+    flex: 1 1 50%;
+    min-width: 300px;
+}
+
+.news-images-area {
+    flex: 1 1 45%; 
+    min-width: 260px;
+}
+
+/* 画像リスト：縦並び */
+.news-image-list {
+    display: flex;
+    flex-direction: column; 
+    gap: 15px; /* 画像間の余白 */
+    margin-bottom: 20px;
+}
+
+/* 画像装飾 */
+.news-image-list img {
+    width: 50%;
+    height: auto;
+  /* border-radius: 6px; */
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.news-image-list a:hover img {
+    transform: scale(1.03);
+    opacity: 0.85;
+}
+
+/* スマホ対応 */
+@media (max-width: 768px) {
+    .news-flex-wrap {
+    flex-direction: column-reverse;
+    align-items: center;
+    }
+    .news-list-area,
+    .news-images-area {
+    flex: 1 1 100%;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .of-menu-img {
+        height: 230px;
+    }
+}
+
+
+
+
